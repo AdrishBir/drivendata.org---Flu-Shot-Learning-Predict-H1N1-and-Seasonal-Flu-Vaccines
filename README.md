@@ -1,0 +1,2 @@
+# drivendata.org---Flu-Shot-Learning-Predict-H1N1-and-Seasonal-Flu-Vaccines
+Beginning in spring 2009, a pandemic caused by the H1N1 influenza virus, colloquially named "swine flu," swept across the world. Researchers estimate that in the first year, it was responsible for between 151,000 to 575,000 deaths globally. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.
